@@ -15,4 +15,9 @@
     NSLog(@"吃饭了");
 }
 
++ (void)run {
+    
+    NSLog(@"跑");
+}
+
 @end

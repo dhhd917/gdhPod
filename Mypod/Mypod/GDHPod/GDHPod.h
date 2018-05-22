@@ -11,5 +11,6 @@
 @interface GDHPod : NSObject
 
 + (void)eat;
++ (void)run;
 
 @end
