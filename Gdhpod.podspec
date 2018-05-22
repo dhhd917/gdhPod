@@ -9,8 +9,8 @@
 Pod::Spec.new do |s|
 
   s.name         = "Gdhpod"
-  s.version      = "0.0.1"
-  s.summary      = "测试测试啊"
+  s.version      = "0.0.2"
+  s.summary      = "我是第二版本"
   s.homepage     = "https://github.com/dhhd917/gdhPod"
   s.license      = "MIT"
   s.author             = { "dhhd917" => "575595743@qq.com" }

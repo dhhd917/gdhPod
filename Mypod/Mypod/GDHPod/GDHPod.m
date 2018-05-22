@@ -10,4 +10,9 @@
 
 @implementation GDHPod
 
++ (void)eat {
+    
+    NSLog(@"吃饭了");
+}
+
 @end

@@ -10,4 +10,6 @@
 
 @interface GDHPod : NSObject
 
++ (void)eat;
+
 @end
